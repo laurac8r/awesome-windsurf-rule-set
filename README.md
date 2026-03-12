@@ -1,0 +1,1 @@
+# awesome-windsurf-rule-set
