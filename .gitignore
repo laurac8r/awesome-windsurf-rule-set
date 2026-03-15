@@ -1,0 +1,40 @@
+# Environment files
+*.env
+*.csv
+
+# Secrets
+*.key
+*.pem
+*.p12
+
+# Virtual environments + libraries
+.venv
+site-packages
+
+# Common IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Compiled/generated files
+node_modules
+*.log
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trash
+
+# Windows files
+Thumbs.db
+Desktop.ini
